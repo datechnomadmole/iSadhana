@@ -1,0 +1,5 @@
+{
+  "name": "iSadhana",
+  "description": "A hybrid visual and code-based audio script sequencer with drag-and-drop and JSON synchronization.",
+  "requestFramePermissions": []
+}
